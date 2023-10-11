@@ -97,7 +97,7 @@ const ChapterVideoForm = ({
                 }}
                 />
                 <div className="text-xs text-muted-foreground mt-4">
-                    Upload this chapters' video
+                    Upload this chapters&apos; video
                 </div>
                 </div>
             )}
